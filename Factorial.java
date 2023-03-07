@@ -19,7 +19,6 @@ public class Factorial
         }        
         else
         {
-            System.out.println("Factorial cannot be determined.");
             System.out.println("Please enter a valid input.");
         } 
     }
